@@ -1,0 +1,13 @@
+* Variables
+Son utilizados para darle un valor a una expresion y en el lenguaje de JS se expresan como Var Let y Const;
+en donde Var asigna un valor que puede ser cambiado y Const asigna un valor que no puede ser cambiado
+* Strings
+Son datos que pueden ser numeros o letras y que se representan dentro de comillas ejemplo: 'Hola'
+* Funciones (argumentos, `return`)
+Las funciones sirven para guardar una serie de pasos que al ser llamadas se reproducen sin tener que escribir nuevamente
+su codigo base, los Return nos sirven para que se expresen las variables que se encuentran dentro de los escope y evitar
+que se nos genere el resultado 'undefined'
+* Declaraciones `if`
+Es un condicional el cual se puede traducir como: si mi pie derecho realiza una accion, da este mensaje.
+* Valores booleanos (`true`, `false`)
+Los valores booleanos son comparaciones que definen si una operacion es verdadera o falsa
