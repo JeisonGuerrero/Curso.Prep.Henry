@@ -1,0 +1,10 @@
+* `for`
+es un bucle que se compone de una variable, una condicion y un sumador y que se debe cerrar con un return para que no 
+sea un bucle infinito.
+
+* `&&`, es una expresion utilizada en los condicionales que nos dice que se deben cumplir si o si una o mas condiciones
+para que funcione un codigo
+
+* `||`, es igual que el && solo que en este caso se puede cumplir una de las condiciones
+
+* `!`, significa negacion y es utilizado para darle sentido contrario a una expresion
